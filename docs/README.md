@@ -587,3 +587,6 @@ Most of the code lines not covered were due to `draw` methods, where it was pref
 - Eduardo Correia: 33.3%
 - José Carvalho: 33.3%
 - Alberto Serra: 33.3%
+
+
+### Grade: 18/20
